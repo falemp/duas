@@ -1,21 +1,23 @@
-{
-  "name": "John Doe",
-  "age": 30,
-  "email": "john.doe@example.com",
-  "address": {
-    "street": "123 Main St",
-    "city": "Anytown",
-    "postalCode": "12345"
+[
+  {
+    "name": "Dua for Protection",
+    "link": "https://example.com/dua-for-protection"
   },
-  "phoneNumbers": [
-    {
-      "type": "home",
-      "number": "555-1234"
-    },
-    {
-      "type": "work",
-      "number": "555-5678"
-    }
-  ]
-}
+  {
+    "name": "Dua for Guidance",
+    "link": "https://example.com/dua-for-guidance"
+  },
+  {
+    "name": "Dua for Success",
+    "link": "https://example.com/dua-for-success"
+  },
+  {
+    "name": "Dua for Forgiveness",
+    "link": "https://example.com/dua-for-forgiveness"
+  },
+  {
+    "name": "Dua for Health",
+    "link": "https://example.com/dua-for-health"
+  }
+]
 
