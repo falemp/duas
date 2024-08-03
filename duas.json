@@ -1,15 +1,21 @@
 [
   {
-    "name": "Dua Abu al-Darda",
-    "link": "https://github.com/syedfalcon/duas/blob/main/duas/dua_abu_dardana.jpg"
+    "title": "Dua Abu al-Darda",
+    "name": "dua_abu_dardana.jpg",
+    "link": "https://github.com/syedfalcon/duas/blob/main/duas/dua_abu_dardana.jpg",
+    "des": ""
   },
   {
-    "name": "Dua-e-Istikhaara",
-    "link": "https://github.com/syedfalcon/duas/blob/main/duas/dua_istekhara.png"
+    "title": "Dua-e-Istikhaara",
+    "name": "dua_istekhara.jpg",
+    "link": "https://github.com/syedfalcon/duas/blob/main/duas/dua_istekhara.png",
+    "des": ""
   },
   {
-    "name": "Dua Anas ibn Maalik",
-    "link": "https://github.com/syedfalcon/duas/blob/main/duas/dua_anas.jpg"
+    "title": "Dua Anas ibn Maalik",
+    "name": "dua_anas.jpg",
+    "link": "",
+    "des": ""
   }
 ]
 
